@@ -1,0 +1,6 @@
+[submodule "CADMesh"]
+	path = CADMesh
+	url = https://github.com/a-capra/CADMesh.git
+[submodule "cry"]
+	path = cry
+	url = https://bitbucket.org/a-capra/cry.git
